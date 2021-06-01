@@ -1,5 +1,4 @@
 ## Eae! Eu sou o Kaique. Bem vindo ao meu Github ✌️
-<hr>
 
 <div>
   <a href="https://github.com/kaiqueandree">
