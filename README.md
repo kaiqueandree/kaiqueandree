@@ -1,4 +1,4 @@
-## Eae! Eu sou o Kaique, Seja bem vindo ao meu Github 👋
+## Eae! Eu sou o Kaique. Bem vindo ao meu Github ✌️
 <hr>
 
 <div>
