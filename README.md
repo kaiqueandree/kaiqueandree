@@ -2,7 +2,7 @@
 <hr>
 
 <div>
-  <a href="https://github.com/kaiquelm">
+  <a href="https://github.com/kaiqueandree">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiquelm&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiquelm&layout=compact&langs_count=16&theme=dracula"/>
 </div>
