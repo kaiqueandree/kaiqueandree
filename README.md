@@ -1,5 +1,10 @@
 ## Eae! Eu sou o Kaique. Bem vindo ao meu Github ✌️
 
+<div>Minha experiência no presente momento tem sido mais focada em back-end, sendo minhas ultimas experiências de trabalho no banco Itau e atualmente no Mercado Livre, desenvolvendo soluções modernas, escalaveis e resiliente.
+No itau atuei no time de modernização de boletos, onde a responsabilidade era substituir o ecosistema legal em COBOL por novas soluções em JAVA com AWS. Ali pude implementar microservições, a partir de uma arquitetura DDD, com enfase em contextos mais segregados e apartados, de forma que, em cenários de problemas e troubleshooting fosse mais simples de resolver.
+</div>
+
+
 <div>
   <a href="https://github.com/kaiqueandree">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kaiqueandree&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,5 +27,3 @@
    <a href="https://instagram.com/kaique.andree" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"       target="_blank"></a>
    <a href = "mailto: kaiquelimaandre@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
-![Snake animation](https://github.com/kaiquelm/kaiquelm/blob/output/github-contribution-grid-snake.svg)
